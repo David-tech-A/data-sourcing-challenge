@@ -1,1 +1,0 @@
-# data-sourcing-challenge
